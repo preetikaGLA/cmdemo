@@ -1,2 +1,6 @@
 hello
+git add file1.tst
+git commit -m -a "commiting 1st"
 test1
+git commit -m -a "commiting 1st"
+again commit
