@@ -2,5 +2,6 @@ hello
 git add file1.tst
 git commit -m -a "commiting 1st"
 test1
-git commit -m -a "commiting 1st"
+git commit -m -a "commiting 2nd"
 again commit
+git commit -m -a "commiting 3rds"
